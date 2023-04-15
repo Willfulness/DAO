@@ -7,9 +7,9 @@
  preserveAspectRatio="xMidYMid meet" style="background:#594f4e">
 
  <style>
+@namespace m url(http://www.w3.org/1999/xhtml);  
   root:{
 * {margin: 0px;}
-    }
   
   foreignObject{
   background: green;
@@ -18,6 +18,9 @@
   font-size: 30px;
   /*opacity: 60%;*/
   }
+  
+    }
+  
   foreignObject{
   background: green;
   background-color: aqua;

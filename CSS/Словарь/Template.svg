@@ -19,15 +19,10 @@
  
 <s:foreignObject
 x="5%" y="5%" width="90%" height="90%"> 
-	
-<x:div>	
-	Атрибуты — это инструкции, которые
-уточняют или модифицируют элемент.	
-</x:div>
-	
      <div >  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla posuere non enim vitae tincidunt. Quisque eleifend, lectus a rhoncus cursus, libero risus condimentum ipsum, vitae finibus dolor metus eget turpis.   Mauris vitae elementum sem. Aliquam urna ligula, pretium eu lorem non, dapibus dignissim lorem. Integer tempor tempus ex, a egestas lectus condimentum sed. Suspendisse tellus sem, placerat ac malesuada sed,  tincidunt placerat eros. Proin id justo vitae nibh aliquam consectetur at eu leo. Praesent eleifend facilisis libero at cursus.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla posuere non enim vitae tincidunt. Quisque eleifend, lectus a rhoncus cursus, libero risus condimentum ipsum, vitae finibus dolor metus eget turpis.   Mauris vitae elementum sem.  Aliquam urna ligula, pretium eu lorem non, dapibus dignissim lorem. Integer tempor tempus ex, a egestas lectus condimentum sed. Suspendisse tellus sem, placerat ac malesuada sed,  tincidunt placerat eros. Proin id justo vitae nibh aliquam consectetur at eu leo. Praesent eleifend facilisis libero at cursus. </div>  	
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla posuere non enim vitae tincidunt. Quisque eleifend, lectus a rhoncus cursus, libero risus condimentum ipsum, vitae finibus dolor metus eget turpis.   Mauris vitae elementum sem.  Aliquam urna ligula, pretium eu lorem non, dapibus dignissim lorem. Integer tempor tempus ex, a egestas lectus condimentum sed. Suspendisse tellus sem, placerat ac malesuada sed,  tincidunt placerat eros. Proin id justo vitae nibh aliquam consectetur at eu leo. Praesent eleifend facilisis libero at cursus. </div>  
 </s:foreignObject>     
-    
+ 
+   
 </s:svg>

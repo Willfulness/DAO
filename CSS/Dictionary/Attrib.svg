@@ -57,7 +57,7 @@ height: 100%;
 </m:head> 
  
 <foreignObject
-x="5%" y="5%" width="100%" height="100%"> 
+x="5%" y="5%" width="95%" height="95%"> 
  
 <m:html> 
  <m:body>

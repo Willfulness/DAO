@@ -1,14 +1,18 @@
-<!DOCTYPE html>
+<?xml version="1.0"?>
 
-<!-- xmlns:svg="http://www.w3.org/2000/svg"  -->
-<!-- xmlns:svg="http://www.w3.org/2000/svg" -->
-<!-- xmlns:xhtml="http://www.w3.org/1999/xhtml"  -->
-
-<html>
-<head>
+<svg:rect
+  xmlns:svg="http://www.w3.org/2000/svg" 
+xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  height="100"
+  width="100"
+  x="0"
+  y="0"
+  fill="red"
+/>
 
 <style type="text/css">
- @namespace svg url(http://www.w3.org/2000/svg); 
+<![CDATA[ 
+@namespace svg url(http://www.w3.org/2000/svg); 
 @namespace xhtml url(http://www.w3.org/1999/xhtml); *
 
 ng-content{
@@ -31,21 +35,9 @@ foreignObject{
   rect{
     display: none;
   }
-
- 
+]]>	
 </style>  
 
-</head>
-<body>
-
-<svg:rect
-  xmlns:svg="http://www.w3.org/2000/svg" 
-  height="100"
-  width="100"
-  x="0"
-  y="0"
-  fill="red"
-/>
 
 <svg:foreignObject
   xmlns:svg="http://www.w3.org/2000/svg"
@@ -59,7 +51,3 @@ foreignObject{
 уточняют или модифицируют элемент.    
   </xhtml:div>
 </svg:foreignObject>
-
-    
-</body>
-</html>

@@ -6,6 +6,7 @@
  preserveAspectRatio="xMidYMid meet">
 
  <style>
+ @namespace m url(http://www.w3.org/1999/xhtml); *  
   svg{
   background:#594f4e;
   
@@ -22,7 +23,16 @@
   font-size: 30px;
   /*opacity: 60%;*/
   }
-    
+
+  m|div{
+      background:#c4c1b8;
+      color: white;
+      font:36px serif;
+      height: 100%;
+      overflow: auto;
+      padding:1em;           
+  }
+  
  </style>
  
 <m:head>  
@@ -40,7 +50,7 @@ font-size: 1em;
 }
   
     div {
-      background:#c4c1b8;
+      background:red;
       color: white;
       font:36px serif;
       height: 100%;

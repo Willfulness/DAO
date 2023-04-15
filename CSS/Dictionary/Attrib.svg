@@ -8,8 +8,8 @@
 
  <style>
   root:{
-  
-  }
+* {margin: 0px;}
+    }
  </style>
  
  <m:style>

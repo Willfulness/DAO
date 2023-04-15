@@ -13,9 +13,7 @@
 <style>	
 <![CDATA[
 foreignObject{
-  background: #010101;
-  background-color: #020202;
-  color: blueviolet;
+    color: blueviolet;
   font-size: 30px;
   /*opacity: 60%;*/
   }
@@ -23,8 +21,7 @@ foreignObject{
 </style>
 	
 <foreignObject
-      width=100% height=100%
-	       > 
+      width="100%" height="100%"> 
      <div>
 	     Атрибуты — это инструкции, которые
 уточняют или модифицируют элемент.

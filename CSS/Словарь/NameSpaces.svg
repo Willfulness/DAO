@@ -9,35 +9,29 @@
         xmlns:x="http://www.w3.org/1999/xhtml"
 	xmlns:ev="http://www.w3.org/2001/xml-events">
 	
-<html>
-<head>
-	
+<x:html>
+<x:head>
 
-<title>Blue wood</title>	
+<x:title>Blue wood</x:title>
 
-	
-  <style type="text/css">
+<x:style type="text/css">
     table { height:100%;background:yellow; }
-  </style>
-</head>
+</x:style>
+</x:head>
 	
-<body>
+<x:body>
 	
-  <table>
-    <tbody>
-      <tr><td>How tall is this?</td></tr>
-    </tbody>
-  </table>
+  <x:table>
+    <x:tbody>
+      <x:tr><x:td>How tall is this?</x:td></x:tr>
+    </x:tbody>
+  </x:table>
 
-<div xmlns="http://www.w3.org/1999/xhtml">	
+<x:div>	
 	Атрибуты — это инструкции, которые
 уточняют или модифицируют элемент.	
-
-	</div>
+</x:div>
 	
-</body>
-	
-
-		
-</html>	
+</x:body>		
+</x:html>	
 </svg>

@@ -17,7 +17,7 @@
     
  </style>
  
-<m:head>  
+  
  <m:style>
   root:{
 * {margin: 0px;}
@@ -41,7 +41,7 @@ height: 100%;
   
   </m:style>
  
-</m:head> 
+
  
 <foreignObject
 x="5%" y="5%" width="100%" height="100%"> 

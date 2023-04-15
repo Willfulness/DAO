@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+ 		   xmlns:m="http://www.w3.org/1999/xhtml"
+ width="100%" height="100%" viewBox="0 0 100% 100%"
+ preserveAspectRatio="xMidYMid meet">
+
+ <style>
+  svg{
+  background:#594f4e;
+  }
+ 
+  foreignObject{
+  background: green;
+  background-color: #42385c;
+  color: blueviolet;
+  font-size: 30px;
+  /*opacity: 60%;*/
+  }
+    
+ </style>
+ 
+  
+ <m:style>
+  root:{
+* {margin: 0px;}
+    } 
+  
+  body { 
+margin: 0px;
+width: 100vw;
+height: 100%;
+}
+  
+    div {
+      background:#c4c1b8;
+      color: white;
+      font:36px serif;
+      height: 100%;
+      overflow: auto;
+      padding:1em;           
+    }
+  
+  
+  </m:style>
+ 
+
+ 
+<foreignObject
+x="5%" y="5%" width="90%" height="90%"> 
+ 
+<m:html> 
+ <m:body>
+     <m:div>
+Атрибуты — это инструкции, которые уточняют или модифицируют элемент.
+ </m:div>  
+  </m:body>
+ </m:html>
+</foreignObject>     
+   
+</svg>

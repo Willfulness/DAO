@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<!-- xmlns:svg="http://www.w3.org/2000/svg"  -->
+<!-- xmlns:svg="http://www.w3.org/2000/svg" -->
+<!-- xmlns:xhtml="http://www.w3.org/1999/xhtml"  -->
+
+<html>
+<head>
+
+<style type="text/css">
+ @namespace svg url(http://www.w3.org/2000/svg); 
+@namespace xhtml url(http://www.w3.org/1999/xhtml); *
+
+ng-content{
+  background: coral;
+}
+
+
+div{
+  background: cadetblue;
+}
+
+foreignObject{
+  background: green;
+  background-color: aqua;
+  color: blueviolet;
+  font-size: 30px;
+  /*opacity: 60%;*/
+  }
+
+  rect{
+    display: none;
+  }
+
+ 
+</style>  
+
+</head>
+<body>
+
+<svg:rect
+  xmlns:svg="http://www.w3.org/2000/svg" 
+  height="100"
+  width="100"
+  x="0"
+  y="0"
+  fill="red"
+/>
+
+<svg:foreignObject
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  height="100"
+  width="100"
+>
+  <xhtml:div>
+    <ng-content></ng-content>
+Атрибуты — это инструкции, которые
+уточняют или модифицируют элемент.    
+  </xhtml:div>
+</svg:foreignObject>
+
+    
+</body>
+</html>

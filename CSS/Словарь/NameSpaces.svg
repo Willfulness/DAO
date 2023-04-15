@@ -8,7 +8,8 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink"
         xmlns:x="http://www.w3.org/1999/xhtml"
 	xmlns:ev="http://www.w3.org/2001/xml-events">
-	
+
+<foreignObject>
 <x:html>
 <x:head>
 
@@ -34,4 +35,5 @@
 	
 </x:body>		
 </x:html>	
+</foreignObject>	
 </svg>

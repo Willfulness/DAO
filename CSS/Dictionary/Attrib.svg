@@ -12,14 +12,18 @@
   
   foreignObject{
   background: green;
-  background-color: #42385c;
-  color: blueviolet;
-  font-size: 30px;
+  }
+  
+   }
+  
+  foreignObject2{
+  background2: green;
+  background-color2: #42385c;
+  color2: blueviolet;
+  font-size2: 30px;
   /*opacity: 60%;*/
   }
   
-  
-    }
   
   
   

@@ -20,16 +20,18 @@
     
  </style>
  
-  
+<m:head>  
+ 
  <m:style>
   root:{
 * {margin: 0px;}
     } 
   
-  body { 
+body { 
 margin: 0px;
 width: 100vw;
 height: 100%;
+font-size: 1em;
 }
   
     div {
@@ -44,7 +46,7 @@ height: 100%;
   
   </m:style>
  
-
+</m:head>
  
 <foreignObject
 x="5%" y="5%" width="90%" height="90%"> 

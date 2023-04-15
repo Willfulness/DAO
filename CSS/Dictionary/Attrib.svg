@@ -8,11 +8,12 @@
  <style>
 @namespace m url(http://www.w3.org/1999/xhtml);  
   root:{
-font-size: 30px;
+
   
 * {margin: 0px;}
   
   foreignObject{
+  font-size: 30px;
   background: green;
   background-color: #42385c;
   color: blueviolet;

@@ -22,9 +22,9 @@ foreignObject{
 	
 <foreignObject
             x="270" y="70" width="740" height="400"> 
-     <div>
+     <xmlns:div>
 	     Атрибуты — это инструкции, которые
 уточняют или модифицируют элемент.
-	     </div>
+	     </xmlns:div>
 </foreignObject>     
 </svg>

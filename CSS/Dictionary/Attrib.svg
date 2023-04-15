@@ -18,6 +18,13 @@
   font-size: 30px;
   /*opacity: 60%;*/
   }
+  foreignObject{
+  background: green;
+  background-color: aqua;
+  color: blueviolet;
+  font-size: 30px;
+  /*opacity: 60%;*/
+  }
   
  </style>
  

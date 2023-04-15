@@ -6,7 +6,7 @@
      viewBox="0 0 500% 500%"
  preserveAspectRatio="xMidYMid meet" style="background:#222222">
 
- <style>
+ <m:style>
     div {
       background:#111111;
       color: white;
@@ -30,7 +30,7 @@
     aspect-ratio: initial !important;
     width: 600px !important;
 }
-  </style>
+  </m:style>
  
  
 <foreignObject

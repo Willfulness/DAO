@@ -25,10 +25,10 @@
    }
   
   foreignObject{
-  background2: green;
+  background: green;
   background-color: #42385c;
-  color2: blueviolet;
-  font-size2: 30px;
+  color: blueviolet;
+  font-size: 30px;
   /*opacity: 60%;*/
   }
   

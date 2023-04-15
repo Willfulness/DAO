@@ -6,7 +6,9 @@
  preserveAspectRatio="xMidYMid meet">
 
  <style>
-  
+  svg{
+  background:#594f4el;
+  }
  
   foreignObject{
   background: green;

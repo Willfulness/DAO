@@ -6,24 +6,7 @@
  preserveAspectRatio="xMidYMid meet" style="background:#594f4e">
 
  <style>
-
-  root:{
-
-  
-* {margin: 0px;}
-  
-  foreignObject{
-  font-size: 30px;
-  background: green;
-  background-color: #42385c;
-  color: blueviolet;
-  
-  /*opacity: 60%;*/
-
-  }
-  
-   }
-  
+ 
   foreignObject{
   background: green;
   background-color: #42385c;
@@ -31,10 +14,7 @@
   font-size: 30px;
   /*opacity: 60%;*/
   }
-  
-  
-  
-  
+    
  </style>
  
 <m:head>  
@@ -60,6 +40,7 @@ height: 100%;
   
   
   </m:style>
+ 
 </m:head> 
  
 <foreignObject

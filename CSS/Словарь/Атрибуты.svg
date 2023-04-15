@@ -1,28 +1,22 @@
 <?xml version="1.0"?>
-
-<svg:rect
-  xmlns:svg="http://www.w3.org/2000/svg" 
-xmlns:xhtml="http://www.w3.org/1999/xhtml"
-  height="100"
-  width="100"
+<svg 
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+          
+  height="250"
+  width="250"
   x="0"
   y="0"
   fill="red"
 />
 
+  <title>Invisible Animals in the Dark</title>
+
 <style type="text/css">
 <![CDATA[ 
 @namespace svg url(http://www.w3.org/2000/svg); 
 @namespace xhtml url(http://www.w3.org/1999/xhtml); *
-
-ng-content{
-  background: coral;
-}
-
-
-div{
-  background: cadetblue;
-}
 
 foreignObject{
   background: green;
@@ -32,22 +26,14 @@ foreignObject{
   /*opacity: 60%;*/
   }
 
-  rect{
-    display: none;
-  }
 ]]>	
 </style>  
 
-
-<svg:foreignObject
-  xmlns:svg="http://www.w3.org/2000/svg"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml"
-  height="100"
-  width="100"
->
-  <xhtml:div>
-    <ng-content></ng-content>
+<foreignObject height="100%" width="100%">
+  <div>
+   
 Атрибуты — это инструкции, которые
 уточняют или модифицируют элемент.    
-  </xhtml:div>
-</svg:foreignObject>
+  </div>
+</foreignObject>
+</svg>

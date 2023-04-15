@@ -12,11 +12,13 @@
 	
 <style>	
 <![CDATA[
-:root {
-
-  --bgColor:#26c2ff;
-}
-
+foreignObject{
+  background: green;
+  background-color: aqua;
+  color: blueviolet;
+  font-size: 30px;
+  /*opacity: 60%;*/
+  }
 ]]>	
 </style>
 	

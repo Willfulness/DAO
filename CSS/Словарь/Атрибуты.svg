@@ -15,8 +15,6 @@
 
 <style type="text/css">
 <![CDATA[ 
-@namespace svg url(http://www.w3.org/2000/svg); 
-@namespace xhtml url(http://www.w3.org/1999/xhtml); *
 
 foreignObject{
   background: green;
@@ -25,7 +23,6 @@ foreignObject{
   font-size: 30px;
   /*opacity: 60%;*/
   }
-
 ]]>	
 </style>  
 

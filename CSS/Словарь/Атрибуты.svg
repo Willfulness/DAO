@@ -3,20 +3,36 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
 <svg
-	xmlns="'http://www.w3.org/2000/svg' 'http://www.w3.org/1999/xhtml'"
+	xmlns="http://www.w3.org/2000/svg"     
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 	xmlns:ev="http://www.w3.org/2001/xml-events">
-<head>	
-<title>Blue wood</title>
 	
-</head>		
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	
+
+<title>Blue wood</title>	
+	
+  <style type="text/css">
+    table { height:100%;background:yellow; }
+  </style>
+</head>
+	
 <body>
-<div>
-Атрибуты — это инструкции, которые
+  <table>
+    <tbody>
+      <tr><td>How tall is this?</td></tr>
+    </tbody>
+  </table>
+</body>
+<div>	
+	Атрибуты — это инструкции, которые
 уточняют или модифицируют элемент.	
-</div>
+
+	</div>
+</html>	
 	
-</body>	
+
 
 </svg>

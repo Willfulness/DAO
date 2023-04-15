@@ -51,21 +51,7 @@ height: 100%;
       padding:1em;           
     }
   
-  div.border-wrap {
-    background-color: var(--color-bg-primary);
-    /* border: 1px solid var(--color-border-secondary); */
-    /* display: inline-block; */
-  display:block; 
-    line-height: 0px;
-    height: 100%;
-  width: 100%;
-}
   
-  img[Attributes Style] {
-    height: 450px !important;
-    aspect-ratio: initial !important;
-    width: 600px !important;
-}
   </m:style>
  
  

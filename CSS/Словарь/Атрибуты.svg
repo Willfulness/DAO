@@ -13,24 +13,5 @@
 
   <title>Invisible Animals in the Dark</title>
 
-<style type="text/css">
-<![CDATA[ 
 
-foreignObject{
-  background: green;
-  background-color: aqua;
-  color: blueviolet;
-  font-size: 30px;
-  /*opacity: 60%;*/
-  }
-]]>	
-</style>  
-
-<foreignObject height="100%" width="100%">
-  <div>
-   
-Атрибуты — это инструкции, которые
-уточняют или модифицируют элемент.    
-  </div>
-</foreignObject>
 </svg>

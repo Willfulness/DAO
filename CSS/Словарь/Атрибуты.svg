@@ -13,7 +13,7 @@
 <style>	
 <![CDATA[
 foreignObject{
-    color: blueviolet;
+    color: black;
   font-size: 30px;
   /*opacity: 60%;*/
   }
@@ -22,9 +22,9 @@ foreignObject{
 	
 <foreignObject
             x="270" y="70" width="740" height="400"> 
-     <xmlns:div>
+     <div >
 	     Атрибуты — это инструкции, которые
 уточняют или модифицируют элемент.
-	     </xmlns:div>
+	     <div>
 </foreignObject>     
 </svg>

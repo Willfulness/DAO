@@ -23,7 +23,7 @@
   
   foreignObject{
   background: green;
-  background-color: aqua;
+  background-color: #42385c;
   color: blueviolet;
   font-size: 30px;
   /*opacity: 60%;*/

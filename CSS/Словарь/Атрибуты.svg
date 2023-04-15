@@ -10,15 +10,7 @@
 	
 <title>Blue wood</title>
 	
-<style>	
-<![CDATA[
-foreignObject{
-    color: blueviolet;
-  font-size: 30px;
-  /*opacity: 60%;*/
-  }
-]]>	
-</style>
+
 	
 <foreignObject
             x="270" y="70" width="740" height="400"> 

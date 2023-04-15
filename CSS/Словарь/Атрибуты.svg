@@ -13,7 +13,7 @@
 <style>	
 <![CDATA[
 foreignObject{
-    color: black;
+    color: blueviolet;
   font-size: 30px;
   /*opacity: 60%;*/
   }

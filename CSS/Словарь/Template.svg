@@ -1,39 +1,33 @@
 <?xml version="1.0" standalone="no"?>
-<?xml-stylesheet type="text/css" href="http://www.w3.org/MarkUp/style/xhtml2.css"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<s:svg version="1.1" xmlns:s="http://www.w3.org/2000/svg"
+ 		   xmlns="http://www.w3.org/1999/xhtml"
+ width="75%" height="75%" viewBox="0 0 100% 100%"
+ preserveAspectRatio="xMidYMid meet" style="background:#222222">
 
-<svg
-	xmlns="http://www.w3.org/2000/svg"     
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xmlns:xlink="http://www.w3.org/1999/xlink"
-        xmlns:x="http://www.w3.org/1999/xhtml"
-	xmlns:ev="http://www.w3.org/2001/xml-events">
-
-<foreignObject>
-<x:html>
-<x:head>
-
-<x:title>Blue wood</x:title>
-
-<x:style type="text/css">
-    table { height:100%;background:yellow; }
-</x:style>
-</x:head>
+ <style>
+    div {
+      background:#111111;
+      color: white;
+      font:36px serif;
+      height: 100%;
+      overflow: auto;
+      padding:1em;           
+    }
+  </style>
+ 
+ 
+<s:foreignObject
+x="5%" y="5%" width="90%" height="90%"> 
 	
-<x:body>
-	
-  <x:table>
-    <x:tbody>
-      <x:tr><x:td>How tall is this?</x:td></x:tr>
-    </x:tbody>
-  </x:table>
-
 <x:div>	
 	Атрибуты — это инструкции, которые
 уточняют или модифицируют элемент.	
 </x:div>
 	
-</x:body>		
-</x:html>	
-</foreignObject>	
-</svg>
+     <div >  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla posuere non enim vitae tincidunt. Quisque eleifend, lectus a rhoncus cursus, libero risus condimentum ipsum, vitae finibus dolor metus eget turpis.   Mauris vitae elementum sem. Aliquam urna ligula, pretium eu lorem non, dapibus dignissim lorem. Integer tempor tempus ex, a egestas lectus condimentum sed. Suspendisse tellus sem, placerat ac malesuada sed,  tincidunt placerat eros. Proin id justo vitae nibh aliquam consectetur at eu leo. Praesent eleifend facilisis libero at cursus.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla posuere non enim vitae tincidunt. Quisque eleifend, lectus a rhoncus cursus, libero risus condimentum ipsum, vitae finibus dolor metus eget turpis.   Mauris vitae elementum sem.  Aliquam urna ligula, pretium eu lorem non, dapibus dignissim lorem. Integer tempor tempus ex, a egestas lectus condimentum sed. Suspendisse tellus sem, placerat ac malesuada sed,  tincidunt placerat eros. Proin id justo vitae nibh aliquam consectetur at eu leo. Praesent eleifend facilisis libero at cursus. </div>  	
+</s:foreignObject>     
+    
+</s:svg>

@@ -14,18 +14,6 @@
 
 <title>Blue wood</title>	
 
-	<style type="text/css">
-<![CDATA[ 
-
-foreignObject{
-  background: green;
-  background-color: aqua;
-  color: blueviolet;
-  font-size: 30px;
-  /*opacity: 60%;*/
-  }
-]]>	
-</style> 
 	
   <style type="text/css">
     table { height:100%;background:yellow; }

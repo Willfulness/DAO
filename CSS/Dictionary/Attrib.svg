@@ -8,13 +8,14 @@
  <style>
   svg{ 
   background:#594f4e;
+  font-size: 24px;
   }
  
   foreignObject{
   background: green;
   background-color: #42385c;
   color: blueviolet;
-  font-size: 30px;
+  font-size: 24px;
   /*opacity: 60%;*/
   }
     

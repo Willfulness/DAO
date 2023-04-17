@@ -37,7 +37,7 @@ height: 100%;
       color: white;
       font:36px serif;
       height: 100%;
-      overflow: auto;
+      overflow: hidden;
       padding:1em;           
     }
   </m:style>

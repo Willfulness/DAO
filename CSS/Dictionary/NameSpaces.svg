@@ -1,0 +1,88 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" 
+		xmlns="http://www.w3.org/2000/svg"
+ 		xmlns:m="http://www.w3.org/1999/xhtml"
+ preserveAspectRatio="xMidYMid meet">
+
+<m:head>  
+<m:style>
+  root:{
+* {margin: 0px;}
+    } 
+
+body { 
+font-size: 1rem;
+}
+
+  
+body { 
+margin: 0px;
+width: 100vw;
+height: 100%;
+font-size: 1em;
+}
+    div {
+      background:#c4c1b8;
+      color: white;
+      font:36px serif;
+      height: 100%;
+      overflow: auto;
+      padding:1em;           
+    }
+</m:style>
+</m:head>
+
+<style>
+ @namespace m2 url(http://www.w3.org/1999/xhtml);
+  svg{
+  background:#594f4e;
+  
+  width: 100%;
+  width: 100vw;
+  height: 100vh;
+
+  }
+ 
+  foreignObject{
+  background: green;
+  background-color: #42385c;
+  color: blueviolet;
+  font-size: 30px;
+  /*opacity: 60%;*/
+  }
+
+  m2|div{
+      background: red;
+      color: white;
+      font:36px serif;
+      height: 100%;
+      overflow: auto;
+      padding:1em;           
+  } 
+</style>
+
+<foreignObject
+x="5%" y="5%" width="90%" height="90%"> 
+
+<m:html>   
+ <m:body>
+  <m:div>
+    Namespace - набор связанных имен или терминов.</m:div>
+    <m:br></m:br>
+   <m:div> Пространство имен —  namespace — стандарт, описывающий </m:div>
+<m:div> именованную группу имен элементов и атрибутов, </m:div>
+<m:div>служащую для обеспечения их уникальности </m:div>
+<m:div> в XML-документе.</m:div>
+<m:br></m:br>
+<m:div> Для получения доступа в CSS к конкретному элементу с использованием пространства имён </m:div>
+    <m:div>необходимо использовать форму namespace|css-selector, </m:div>  
+    <m:div>предварительно дав наименование для пространства имён с помощью @namespace.</m:div>  
+ </m:div>  
+  </m:body>
+</m:html> 
+
+</foreignObject>     
+  
+
+</svg>

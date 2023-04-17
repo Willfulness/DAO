@@ -53,7 +53,7 @@ font-size: 1em;
   }
 
   m2|div{
-      background: red;
+      background: #363e8f;
       color: white;
       font:36px serif;
       height: 100%;

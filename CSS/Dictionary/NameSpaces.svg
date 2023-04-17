@@ -49,6 +49,10 @@ font-size: 1em;
   background-color: #42385c;
   color: blueviolet;
   font-size: 30px;
+	
+width: 100vw;
+height: 100%;
+	
   /*opacity: 60%;*/
   }
 
